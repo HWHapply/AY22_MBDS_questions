@@ -2,4 +2,4 @@
 
 This repository consists of 2 answer folders for two questions and a pdf file of programme questions.
 
-I only attempted question 1 and question 3, so i didn't create a folder for question 2.
+I didn't attempted question 2, so i didn't create a folder for it.

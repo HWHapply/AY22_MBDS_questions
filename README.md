@@ -1,5 +1,5 @@
 # AY22_MBDS_questions
 
-This repository consists of 2 answer folders for two questions I attempted and a pdf file of programme questions.
+This repository consists of 3 answer folders and a pdf file of programme questions.
 
-I didn't attempted question 2, so i didn't create a folder for it.
+I didn't attempted question 2, so the folder 'Answer to Q2' is empty.
